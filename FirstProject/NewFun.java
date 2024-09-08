@@ -14,7 +14,7 @@ class Fun {
 
     public static void Niraj(){
         System.out.println("Yesari nai ho ni sir");
-    }
+    }  
 }
 
 
