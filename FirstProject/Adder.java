@@ -1,4 +1,4 @@
-package FirstProject;
+//package FirstProject;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 
